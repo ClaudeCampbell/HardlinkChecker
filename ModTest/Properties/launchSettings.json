@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModTest": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Games\\Nexus Mod Manager\\Skyrim\\Mods\\VirtualInstall\\1000168882\\Bijin Warmaidens.bsa\" \"C:\\program files (x86)\\steam\\steamapps\\common\\Skyrim\\Data\\Bijin Warmaidens.bsa\""
+    }
+  }
+}
